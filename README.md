@@ -29,10 +29,6 @@
 
 ###
 
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExeHQybjJ3bnhiNHE0cWhudW8wNm1hZjNqbTl3cG0yenhtMjVyZmk3biZlcD12MV9naWZzX3NlYXJjaCZjdD1n/BBNYBoYa5VwtO/giphy.gif"  />
-
-###
-
 <div align="center">
   <a href="https://www.youtube.com/@fathironmy1032" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
@@ -50,13 +46,5 @@
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/ftrhost/ftrhost/output/snake.svg" alt="Snake animation" />
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/fathironmy">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=fathironmy&count=5" alt="Spotify recently played"  />
-  </a>
-</div>
 
 ###
